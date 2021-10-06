@@ -1,0 +1,9 @@
+numpy==1.19.5
+pandas==0.24.2
+tvdatafeed==1.0.4
+chromedriver-autoinstaller==0.2.2
+telegram==0.0.1
+python-telegram-bot==13.7
+selenium==3.141.0
+websocket-client==0.57.0
+requests==2.22.0
